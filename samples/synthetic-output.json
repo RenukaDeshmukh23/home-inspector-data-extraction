@@ -1,1 +1,27 @@
-
+{
+  "sample_type": "synthetic_demonstration",
+  "description": "Entirely fictional records illustrating the final workbook structure. Not client data or historical project results.",
+  "records": [
+    {
+      "Company_Name": "Example Inspection Company 01",
+      "Phone": "SYNTHETIC_PHONE_001",
+      "Name": "Demo Inspector 01",
+      "Location": "Example City A",
+      "Website": "https://inspector-01.example"
+    },
+    {
+      "Company_Name": "Example Inspection Company 02",
+      "Phone": null,
+      "Name": "Demo Inspector 02",
+      "Location": "Example City B",
+      "Website": "https://inspector-02.example"
+    },
+    {
+      "Company_Name": "Example Inspection Company 03",
+      "Phone": "SYNTHETIC_PHONE_003",
+      "Name": "Demo Inspector 03",
+      "Location": "Example City C",
+      "Website": "https://inspector-03.example"
+    }
+  ]
+}
