@@ -1,0 +1,30 @@
+# Private client exports and archives
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.tsv
+*.zip
+upload/
+raw/
+private/
+client-data/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+credentials*
+secrets*
+*.pem
+*.key
+
+# Local Python artifacts
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local OS artifacts
+.DS_Store
+Thumbs.db
